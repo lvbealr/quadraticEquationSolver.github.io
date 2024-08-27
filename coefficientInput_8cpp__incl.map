@@ -1,0 +1,18 @@
+<map id="coefficientInput.cpp" name="coefficientInput.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,330,35"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,83,63,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,38,78,84,77,79,214,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="142,238,201,268"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,38,157,56,141,69,128,84,121,101,118,119,122,157,137,194,155,224,150,227,132,196,117,159,112,119,115,100,124,82,137,65,154,52,192,33"/>
+<area shape="rect" id="Node000004" href="$coefficientInput_8h.html" title=" " alt="" coords="138,83,271,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,37,225,71,221,68,245,34"/>
+<area shape="rect" id="Node000005" href="$coefficientListStruct_8h.html" title=" " alt="" coords="209,161,366,190"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="267,35,286,82,291,115,291,145,286,146,285,115,281,84,262,37"/>
+<area shape="rect" id="Node000006" href="$inOutStream_8h.html" title=" " alt="" coords="346,83,458,113"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="285,33,363,73,360,78,283,38"/>
+<area shape="rect" id="Node000007" href="$customAssert_8h.html" title=" " alt="" coords="482,83,600,113"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="311,33,474,76,473,81,309,38"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="204,114,180,224,175,222,199,113"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="222,111,263,148,259,152,218,115"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="267,193,207,232,204,227,264,189"/>
+</map>

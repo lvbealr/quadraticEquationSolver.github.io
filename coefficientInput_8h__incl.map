@@ -1,0 +1,8 @@
+<map id="coefficientInput.h" name="coefficientInput.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,138,35"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,161,101,190"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,37,52,58,42,84,40,98,42,112,57,146,52,148,37,113,34,98,37,82,47,56,59,34"/>
+<area shape="rect" id="Node000003" href="$coefficientListStruct_8h.html" title=" " alt="" coords="52,83,208,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,34,112,69,108,72,80,37"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="121,115,94,150,90,147,117,112"/>
+</map>

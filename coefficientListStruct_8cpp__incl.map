@@ -1,0 +1,14 @@
+<map id="coefficientListStruct.cpp" name="coefficientListStruct.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,275,35"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,83,63,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,38,78,78,76,74,160,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="87,83,152,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,37,145,73,141,70,175,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,161,277,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,35,218,112,234,146,229,148,213,114,190,36"/>
+<area shape="rect" id="Node000005" href="$coefficientListStruct_8h.html" title=" " alt="" coords="228,83,384,113"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="213,33,273,72,270,77,210,38"/>
+<area shape="rect" id="Node000006" href="$customAssert_8h.html" title=" " alt="" coords="408,83,526,113"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="243,33,402,76,400,81,241,38"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="297,115,270,150,265,147,293,112"/>
+</map>
