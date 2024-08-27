@@ -1,0 +1,7 @@
+<map id="solver.h" name="solver.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,5,118,35"/>
+<area shape="rect" id="Node000002" href="$coefficientListStruct_8h.html" title=" " alt="" coords="5,83,162,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,36,86,67,81,67,81,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="54,161,113,190"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,113,86,145,81,145,81,113"/>
+</map>
